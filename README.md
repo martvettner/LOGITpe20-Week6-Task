@@ -1,6 +1,6 @@
 # LOGITpe20-Week6-Task
 
-##Task 1
+## Task 1
 ```
             string[] superHeroes = { "Batman", "Santa", "Spongebob", "Thor", "Harry Potter"};
             string[] superVillains = { "Godzilla", "Voldemort", "Grinch", "Darth Vader", "T-1000"};
