@@ -9,3 +9,7 @@
             //Provide the following output -->
             //{random superhero} will fight {random Supervillain} with a {random weapon}
 ```
+## Task 2
+
+* Populate an array of 10 elements with ten random numbers from 1 to 10
+* Display the sum of the elements
